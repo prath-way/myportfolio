@@ -14,7 +14,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <img
-              src="https://github.com/prath-way/myportfolio/blob/main/public/prath.jpeg"
+              src="https://ik.imagekit.io/chiragferwani/prath.jpeg"
               alt="Prathamesh Waydande"
               className="w-full max-w-md mx-auto rounded-lg shadow-xl border border-slate-200 dark:border-slate-700"
             />
