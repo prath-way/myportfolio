@@ -14,7 +14,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <img
-              src="https://private-user-images.githubusercontent.com/113030779/452406458-6f19b15b-d21a-46ea-97cc-40029b1d0c24.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkyMzE2ODksIm5iZiI6MTc0OTIzMTM4OSwicGF0aCI6Ii8xMTMwMzA3NzkvNDUyNDA2NDU4LTZmMTliMTViLWQyMWEtNDZlYS05N2NjLTQwMDI5YjFkMGMyNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwNlQxNzM2MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02M2VkOTYyOGFiM2U2MzI2NDcyNDc0YTVlZTNiNjI3ZGYzOWEwZDYzYTdjMmZlZGFiZDBiZjYwYmRjZjVkMGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1-cDgmhsnhnFXr0mC8HvLbcmAh8E2Z-NYUiMRgEvfyI"
+              src="https://github.com/prath-way/myportfolio/blob/main/public/prath.jpeg"
               alt="Prathamesh Waydande"
               className="w-full max-w-md mx-auto rounded-lg shadow-xl border border-slate-200 dark:border-slate-700"
             />
