@@ -93,13 +93,13 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center">
                 <Mail className="h-4 w-4 mr-2 text-slate-400" />
-                <a href="mailto:prathamesh.waydande@email.com" className="text-slate-400 hover:text-white transition-colors duration-200 text-sm">
-                  prathamesh.waydande@email.com
+                <a href="mailto:waydandeprathamesh2@gmail.com" className="text-slate-400 hover:text-white transition-colors duration-200 text-sm">
+                  waydandeprathamesh2@gmail.com
                 </a>
               </div>
               <div className="flex items-center">
                 <Phone className="h-4 w-4 mr-2 text-slate-400" />
-                <span className="text-slate-400 text-sm">+91 9876543210</span>
+                <span className="text-slate-400 text-sm">7219435156</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-4 w-4 mr-2 text-slate-400" />
@@ -129,7 +129,7 @@ const Footer = () => {
               <Linkedin className="h-5 w-5" />
             </a>
             <a 
-              href="mailto:prathamesh.waydande@email.com" 
+              href="mailto:waydandeprathamesh2@gmail.com" 
               className="text-slate-400 hover:text-white transition-colors duration-200"
             >
               <Mail className="h-5 w-5" />
