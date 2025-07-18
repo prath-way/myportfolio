@@ -19,10 +19,10 @@ const Projects = () => {
       demo: "#"
     },
     {
-      title: "5G Signal Analysis Tool",
-      description: "Built a MATLAB-based tool for analyzing 5G signal characteristics including beamforming patterns, channel estimation, and interference analysis. Used in academic research.",
-      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop",
-      technologies: ["MATLAB", "Signal Processing", "5G", "RF Design"],
+      title: "Student Performance Predictor",
+      description: "A full-stack machine learning web application that predicts whether a student will Pass or Fail based on academic inputs. This project integrates a React + TypeScript frontend with a Node.js (Express) backend, powered by a Python-trained ML model.",
+      image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=600&h=400&fit=crop",
+      technologies: ["React", "TypeScript", "Node.js", "Express", "Python", "Machine Learning"],
       github: "#",
       demo: "#"
     },
@@ -35,10 +35,10 @@ const Projects = () => {
       demo: "#"
     },
     {
-      title: "Digital Filter Design Suite",
-      description: "Created a comprehensive digital filter design application with GUI for FIR and IIR filter design, frequency response analysis, and real-time signal filtering.",
-      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
-      technologies: ["Java", "Swing", "DSP", "Signal Processing"],
+      title: "Fitness Webpage App",
+      description: "Developed a dynamic fitness web application featuring an interactive user interface for workout planning, progress tracking, and personalized fitness recommendations. Integrated real-time data visualization for activity monitoring and provided tools for users to set and achieve their fitness goals.",
+      image: "https://th.bing.com/th/id/OIP.hoDkGR1RznxTttwUuksGqgHaE8?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+      technologies: ["React", "Node.js", "Tailwind CSS", "Chart.js", "Fitness API"],
       github: "#",
       demo: "#"
     },
