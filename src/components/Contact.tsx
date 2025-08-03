@@ -102,8 +102,11 @@ const Contact = () => {
                 variant="outline" 
                 size="icon" 
                 className="border-slate-300 dark:border-slate-600 hover:bg-blue-50 dark:hover:bg-blue-900/20 hover:border-blue-300 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-300"
+                asChild
               >
-                <Linkedin className="h-5 w-5" />
+                <a href="https://www.linkedin.com/in/prathamesh-waydande-636217244" target="_blank" rel="noopener noreferrer">
+                  <Linkedin className="h-5 w-5" />
+                </a>
               </Button>
               <Button 
                 variant="outline" 

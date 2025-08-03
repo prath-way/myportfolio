@@ -121,7 +121,7 @@ const Footer = () => {
               <Github className="h-5 w-5" />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/prathamesh-waydande-636217244" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-slate-400 hover:text-white transition-colors duration-200"

@@ -23,7 +23,7 @@ const Projects = () => {
       description: "A full-stack machine learning web application that predicts whether a student will Pass or Fail based on academic inputs. This project integrates a React + TypeScript frontend with a Node.js (Express) backend, powered by a Python-trained ML model.",
       image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=600&h=400&fit=crop",
       technologies: ["React", "TypeScript", "Node.js", "Express", "Python", "Machine Learning"],
-      github: "#",
+      github: "https://github.com/prath-way/study-success-scope",
       demo: "#"
     },
     {
@@ -43,10 +43,10 @@ const Projects = () => {
       demo: "#"
     },
     {
-      title: "PCB Design Automation Tool",
-      description: "Developed a Python script for automating PCB layout optimization using genetic algorithms. Reduces design time by 40% while improving signal integrity.",
-      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
-      technologies: ["Python", "PCB Design", "Algorithms", "Optimization"],
+      title: "Cybersecurity Job Simulation - Mastercard",
+      description: "Completed a virtual job simulation focused on cybersecurity, including designing phishing email simulations and interpreting phishing simulation results. Issued by Mastercard and Forage.",
+      image: "https://raw.githubusercontent.com/prath-way/certificates/main/mastercard_cybersecurity_certificate.png", // Replace with actual certificate image URL if available
+      technologies: ["Cybersecurity", "Phishing Simulation", "Forage"],
       github: "#",
       demo: "#"
     },
@@ -56,6 +56,14 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
       technologies: ["React", "Node.js", "Socket.io", "MongoDB", "JWT"],
       github: "#",
+      demo: "#"
+    },
+    {
+      title: "FitCoach_AI",
+      description: "A smart AI-powered fitness and nutrition assistant that provides personalized workout plans and diet suggestions. Features food image recognition using Roboflow for real-time nutrition insights and tailored recommendations.",
+      image: "https://raw.githubusercontent.com/prath-way/fitAi/main/screenshots/fitai_dashboard.png", // Replace with actual screenshot URL if available
+      technologies: ["HTML", "CSS", "JavaScript", "Node.js", "Roboflow API"],
+      github: "https://github.com/prath-way/fitAi",
       demo: "#"
     }
   ];
